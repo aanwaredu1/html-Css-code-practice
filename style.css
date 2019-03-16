@@ -1,0 +1,21 @@
+/* comment in Css*/
+h1{
+        font-style: italic;
+        font-size: 4em;
+        color: blue;
+}
+p{
+    font-style: italic;
+    font-size: 3em;
+    color: #00c3ff;
+}
+/* id selector must start with # */
+#Adeel{
+    color: blueviolet;
+}
+
+/* to define Class attribute in css syntex is (.classname) or attribute */
+.Amina{
+    color: #666666;
+    font-style: initial
+}
